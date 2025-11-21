@@ -46,8 +46,8 @@ A Python script that sends daily weather updates to family members for our upcom
 5. Paste it into `config.py` as `OPENWEATHER_API_KEY`
 
 ### 2. Set Up Gmail App Password
-1. Make sure 2-Step Verification is ON: https://myaccount.google.com/security
-2. Go to https://myaccount.google.com/apppasswords
+1. Make sure 2-Step Verification is ON: 
+2. Go to 
 3. Select "Mail" and "Other (Custom name)"
 4. Name it "Weather App" and click "Generate"
 5. Copy the 16-character password (remove spaces)
